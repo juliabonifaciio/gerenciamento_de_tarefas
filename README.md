@@ -1,6 +1,6 @@
-# 🗂️ Sistema de Gerenciamento de Tarefas
+# Sistema de Gerenciamento de Tarefas
 
-## 📘 Descrição do Projeto
+## Descrição do Projeto
 
 O **Sistema de Gerenciamento de Tarefas** tem como objetivo oferecer uma solução simples e eficiente para o controle de atividades.  
 A aplicação permite **cadastrar, listar, atualizar e remover tarefas**, garantindo a **persistência dos dados** por meio de armazenamento em arquivo.  
@@ -9,15 +9,7 @@ O sistema foi desenvolvido em **Python**, utilizando o conceito de **modulariza�
 
 ---
 
-## 👩‍💻 Integrantes
-- Alexandre Silva Alves – RM567415
-- Gabriella Mostafa Garcia – RM568508  
-- Mariana Pergentino Fonseca – RM568252  
-- Julia Marcela de Faria Bonifacio – RM566673  
-
----
-
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - **Cadastro de Tarefas:**  
   Permite criar novas tarefas informando:
@@ -41,7 +33,7 @@ O sistema foi desenvolvido em **Python**, utilizando o conceito de **modulariza�
 
 ---
 
-## 🧩 Estrutura do Projeto
+## Estrutura do Projeto
 
 ### `tarefas.py`
 Contém as funções responsáveis pelas operações principais do sistema:
